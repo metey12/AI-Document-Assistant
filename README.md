@@ -1,4 +1,4 @@
-<img width="2559" height="1267" alt="Ekran görüntüsü 2026-01-13 205214" src="https://github.com/user-attachments/assets/81ac49f1-1568-40c6-a135-f7c04a1ae9ef" /># 🧠 AI Document Assistant (RAG Workspace)
+# 🧠 AI Document Assistant (RAG Workspace)
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![.NET](https://img.shields.io/badge/.NET-8.0-purple.svg)
