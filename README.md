@@ -18,16 +18,15 @@
 * **📍 Akıllı Atıf Sistemi:** Yapay zeka, verdiği cevabın belgenin **hangi sayfasında** geçtiğini referans gösterir.
 * **🎓 Otomatik Sınav (Quiz) Modu:** Yüklenen belgeden otomatik olarak çoktan seçmeli sorular oluşturur ve kullanıcının bilgisini test eder.
 * **💾 Kalıcı Hafıza:** PostgreSQL ve **pgvector** eklentisi kullanılarak vektör verileri kalıcı olarak saklanır.
-* **🎨 Modern Dark UI:** Göz yormayan, SaaS standartlarında profesyonel karanlık tema arayüzü.
 
 ## 🛠️ Teknoloji Yığını (Tech Stack)
 
-* **Backend:** ASP.NET Core 8.0 (MVC)
-* **AI Model:** Google Gemini 1.5/2.5 Flash & Text Embedding 004
+* **Backend:** ASP.NET Core (MVC)
+* **AI Model:** Google Gemini 2.5 Flash & Text Embedding 004
 * **Veritabanı:** PostgreSQL (Docker üzerinde `pgvector/pgvector:pg16` imajı)
 * **ORM:** Entity Framework Core
 * **PDF İşleme:** UglyToad.PdfPig
-* **Frontend:** HTML5, CSS3 (Custom Dark Theme), Bootstrap 5, Vanilla JS
+* **Frontend:** HTML5, CSS3, Bootstrap 5, Vanilla JS
 
 ## 🚀 Kurulum ve Çalıştırma
 
